@@ -1,0 +1,2 @@
+Matricula,Proprietario,CPF,Endereco_Imovel,Municipio,Estado,Area_Terreno,Registro_Anterior,Data_Registro,Cartorio,Livro,Folha,Observacoes
+,,,"{'Street': None, 'Number': None, 'Neighborhood': None}",,,,,,"{'Name': None, 'Location': None}",,,
